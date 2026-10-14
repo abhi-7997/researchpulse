@@ -1,0 +1,6 @@
+{
+  "name": "RESEARCHPULSE — Agentic AI Research Monitoring System",
+  "description": "Agentic research monitoring system detecting new developments, historical claim shifts, contradiction & duplicate clusters, and trend analysis with n8n webhook integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
